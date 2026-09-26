@@ -1,0 +1,6 @@
+Current Supplied to BLDC Motor:::The electric current (in Amperes) supplied from the inverter to the BLDC motor.
+Modulated DC Voltage::The modulated DC voltage (in Volts) applied to the motor.
+Output Speed::The rotational speed (in RPM) of the BLDC motor output.
+Measured Speed::The measured speed (in RPM) of the motor.
+Hall-Effect Sensor Output::The Hall-effect sensor output indicating rotor position.
+Fault Type (Healthy, Double-Line Fault, Three-Phase Fault)::The target variable indicating the type of fault (Healthy, Double-line fault, Three-phase fault, etc.).
